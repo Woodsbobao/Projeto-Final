@@ -1,0 +1,27 @@
+nav {
+    font-style: italic;
+    font-size: 17px;
+    margin-bottom: -20px;
+    margin-top: -20px;
+}
+#logo {
+    margin-left: 5px;
+}
+
+#dados {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#maps {
+    background-color: black;
+    text-align: center;
+}
+
+
+footer {
+    background-color: black;
+    border-top: 2px solid rgba(255, 255, 255, 0.473);
+    text-align: center;
+}
